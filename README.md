@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @ErykushBadu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello! I go by ErykushBadu or Sultan Sadaqat
+  
+Programming Skills: HTML/CSS/Javascript, Node.JS, Express, React, Java/Spring, C#, Python, Kotlin.
+Software Proficiencies: Visual Studio/Code, IntelliJ, Eclipse, JavaFX, Postman, Pycharm, Android Studio, VirtualBox, Node.js, AWS, Godot Engine, Game Maker, Git.
+Data Skills: PL/SQL, MySQL, SQL Developer, MongoDB/Mongosh, DynamoDB, RDS, noSQL.
 
-<!---
-ErykushBadu/ErykushBadu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I can be reached by email - sultan.sadaqat7@gmail.com
+LinkedIn - www.linkedin.com/in/sultan-sadaqat7
